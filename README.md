@@ -11,5 +11,9 @@ A site skin for the website 'Archive Of Our Own' Site skins are a neat tool that
   <li>Click the 'Submit' button at the bottom of the page</li>
   <li>Enjoy!</li>
 </ol>
+
+The skin features custom icons, kudos messages, a highlight on tags featuring either character, and more! 
+
 ![Screenshot_2025-09-18-11-25-01-687_com android chrome-edit](https://github.com/user-attachments/assets/ced15e22-a213-4096-9634-a9e9fdf72a55)
+
 ![Screenshot_2025-09-18-11-25-21-743_com android chrome-edit](https://github.com/user-attachments/assets/8bfa0bef-8255-4753-9511-0490f2b69b12)
