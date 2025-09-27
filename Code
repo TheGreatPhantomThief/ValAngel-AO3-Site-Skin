@@ -400,7 +400,7 @@ p.kudos,
 img[src$="/images/skins/iconsets/default/icon_user.png"],
 img[src$="/images/skins/iconsets/default/icon_collection.png"],
 img[src$="/images/lockblue.png"] {
-  background-image: url("https://images.squidge.org/images/2025/09/17/Untitled758_20250918091118.png");
+  background-image: url("https://images.squidge.org/images/2025/09/27/Untitled758_20250927164227.png");
   background-size: 200px 835px;
 }
 
